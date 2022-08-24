@@ -15,6 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # startup_nam
+在lib資料夾裡面的main.dart可以看到程式碼
 
-  在lib資料夾裡面的main.dart可以看到程式碼
-  新增中文註解幫助學習
+新增中文註解幫助學習
