@@ -1,7 +1,7 @@
 
 import 'dart:ui';
 
-import 'package:english_words/english_words.dart'; //  一個外部的包，包含很多英文字和一些實用的方法
+import 'package:english_words/english_words.dart'; // 一個外部的包，包含很多英文字和一些實用的方法，可以到pub.dev裡面查看
 import 'package:flutter/material.dart';
 
 void main() {
