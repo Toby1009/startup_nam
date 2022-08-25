@@ -108,8 +108,10 @@ class _RandomWordsState extends State<RandomWords> {
           centerTitle: true,
           title: const Text('Startup Name Generator'),
           actions: [
+            //按鈕設定
             IconButton(
               icon: const Icon(Icons.list),
+              //按下按鈕會做的事
               onPressed: _pushSaved,
               tooltip: 'Saved Suggestions',
             ),
